@@ -1,0 +1,29 @@
+html {
+    font-size: 16pt;
+}
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    margin: auto;
+}
+
+p {
+    margin: auto;
+}
+.poster {
+    margin: auto;
+    width: 30%;
+    margin-top: 60px;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+.motivation-img {
+    border: 10px solid white;
+    width: 100%;
+}
+   
